@@ -22,3 +22,4 @@ gem 'spring', group: :development
 # gem 'capistrano-rails', group: :development
 
 gem "haml-rails", "~> 0.8"
+gem "thin"
